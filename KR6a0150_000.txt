@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 舍衛國王夢見十事經
+#+DATE: 2015-08-30 19:32:57.679838
+#+PROPERTY: JUAN 0
