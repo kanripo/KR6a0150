@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:32:57.858194
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:47
 #+TITLE: 舍衛國王夢見十事經
 #+PROPERTY: CBETA_ID T02n0146
 #+PROPERTY: ID KR6a0150
